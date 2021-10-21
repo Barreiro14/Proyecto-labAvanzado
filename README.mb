@@ -2,7 +2,7 @@
 Repositorio del proyecto de FIS-4000 01 (laboratorio avanzado para licenciado), 
 en este trabajo tomamos una ecuacion diferencial:
 
-![image](https://github.com/Barreiro14/Proyecto-labAvanzado/blob/main/equation.png?raw=true)
+![Alt Text](https://github.com/Barreiro14/Proyecto-labAvanzado/blob/main/equation.png?raw=true)
 
 De esta tomamos la solución analítica y calculamos la solución numérica para diferentes
 valores de dt para finalmente calcular el error del método con respecto a la solución
