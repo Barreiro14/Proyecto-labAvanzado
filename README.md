@@ -1,4 +1,3 @@
-#Proyecto_labAvanzado
 Repositorio del proyecto de FIS-4000 01 (laboratorio avanzado para licenciado), 
 en este trabajo tomamos una ecuacion diferencial:
 
