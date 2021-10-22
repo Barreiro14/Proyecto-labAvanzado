@@ -1,0 +1,1 @@
+rm  tmp1.png

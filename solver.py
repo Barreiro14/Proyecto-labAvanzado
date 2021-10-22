@@ -12,4 +12,4 @@ def solver(I, w, dt, T):
     u[1] = u[0] - 0.5*(dt**2)*w*2*u[0]
     for n in range(1, Nt):
         u[n+1] = 2*u[n] - u[n-1] - (dt*2)*(w**2)*u[n]
-    return u, t
+    return [u, t]
