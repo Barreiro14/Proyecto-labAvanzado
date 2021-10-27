@@ -14,7 +14,7 @@ def main():
 	parser.add_argument('--num_periods', type=float, default=5)
 	a = parser.parse_args()
 	I, w, dt, num_periods = a.I, a.w, a.dt, a.num_periods
-	visualize(solver(I, w, 0.1, 10)[0], solver(I, w, 0.1, 10)[1], I, w, dt)
+	visualize(solver(I, w, 0.09, 0.3)[0], solver(I, w, 0.09, 0.3)[1], I, w, dt)
 	print("hasta ahora todo jevi")
 
 if __name__ == '__main__':
